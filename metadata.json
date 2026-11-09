@@ -1,0 +1,7 @@
+{
+  "name": "LinkNest Offline Bundle Sharer",
+  "description": "An offline-first, privacy-focused web application to create, manage, and share portable bundles of links, notes, and files. All data is stored locally in your browser. Features include bundle password protection and in-bundle search. No accounts or cloud storage required.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
